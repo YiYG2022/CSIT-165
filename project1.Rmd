@@ -1,6 +1,6 @@
 ---
 title: "Project 1"
-author: "Name:  \n Partner: "
+author: "Name: Yiyang Guo \n Partner: "
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
